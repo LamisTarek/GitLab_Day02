@@ -9,6 +9,10 @@ To remove branch remotly
 ```
 git branch -D branchName
 ```
+To list tags
+```
+git tag
+```
 
 To remove tag locally
 ```
